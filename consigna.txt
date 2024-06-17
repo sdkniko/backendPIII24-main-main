@@ -1,0 +1,11 @@
+- Agregar .env (Listo)
+- Usar MongoDB (Listo)
+- Crear una nueva entidad (Listo)
+- Relacionar con populate (Listo)
+- Generar un Postman con paginado (get) (Listo)
+- Regenerar el swagger
+- Instalarlo en Vercel
+- Entregar:
+    Repo nuevo
+    URL
+    Postman
